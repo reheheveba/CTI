@@ -1,1 +1,1 @@
-# CTI
+# ShinyHunters CTI
